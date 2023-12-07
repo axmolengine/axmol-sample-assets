@@ -1,0 +1,25 @@
+// A "Material" file can contain one or more materials
+material CubeMap
+{
+    technique normal
+    {
+        pass 0
+        {
+            shader
+            {
+                vertexShader = custom/cube_map_vs
+                fragmentShader = custom/cube_map_fs
+                // sampler:
+                //   responsible for setting the texture and its parameters
+                //   the Id of the sampler is the uniform name
+                sampler u_cubeTex
+                {
+                    path = MeshRendererTest/skybox/left.jpg
+                    wrapS = GL_CLAMP_TO_EDGE
+                    wrapT = GL_CLAMP_TO_EDGE
+                }
+
+            }
+        }
+    }
+}
