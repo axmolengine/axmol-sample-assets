@@ -53,6 +53,7 @@ material spaceship
 				cullFace = true
 				cullFaceSide = BACK
 				depthTest = false
+				depthWrite = false
 			}
 			shader
 			{
