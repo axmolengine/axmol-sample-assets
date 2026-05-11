@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="40" height="24" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="1">
- <tileset firstgid="1" source="Multi-tileset-test-1.tsx"/>
- <tileset firstgid="19" source="Multi-tileset-test-2.tsx"/>
+ <tileset firstgid="1" source="multi-tileset-test-1.tsx"/>
+ <tileset firstgid="19" source="multi-tileset-test-2.tsx"/>
  <layer id="3" name="L0" width="40" height="24">
   <data encoding="base64" compression="zlib">
    eJztlbEJADEMA12lypAaTaP8aB9I+3rUiKSwwN3BXeeqXq/Xu2uz6hnGLQ4n+pabJodsifTS5JAtkV6aHLIl0kuTQ7ZEemlyyJZIL00O2RLppckhWyK9NDlkS6SXJodsyffWX+DY/t+bJ+J6vd4VewFIRBKJ
