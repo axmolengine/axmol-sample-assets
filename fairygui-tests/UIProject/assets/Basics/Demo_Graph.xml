@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,570">
+  <displayList>
+    <text id="n9_e3bc" name="n9" xy="13,10" size="649,32" fontSize="22" text="Simple graphics. (Empty graph is usually for place holder purpose.)"/>
+    <graph id="n10_e3bc" name="n10" xy="11,57" size="100,100" type="rect" lineSize="2" corner="20"/>
+    <graph id="n11_e3bc" name="n11" xy="304,64" size="100,100" type="rect" lineSize="5" lineColor="#ffffff66" fillColor="#ffcc9933"/>
+    <graph id="n12_e3bc" name="n12" xy="318,177" pivot="0.5,0.5" size="206,113" skew="60,30" rotation="-30" type="rect" lineSize="2" fillColor="#ff006600"/>
+    <graph id="n13_e3bc" name="n13" xy="128,61" size="139,92" type="rect" lineSize="15" lineColor="#ffff99ff" fillColor="#00ff6600"/>
+    <graph id="n14_e3bc" name="polygon" xy="548,190" size="154,127" type="polygon" lineSize="10" lineColor="#ff660033" fillColor="#ff66cccc" points="0,52,95,52,95,-2.5,154,64,95,127,94.5,81.5,0,82"/>
+    <graph id="n15_e3bc" name="polygon2" xy="709,200" size="144,145" type="regular_polygon" lineSize="20" lineColor="#ffcc0066" fillColor="#ffff9933" sides="5" startAngle="-18"/>
+    <graph id="n16_e3bc" name="n16" xy="593,63" size="100,100" type="eclipse" lineSize="10" lineColor="#ff00ffff" fillColor="#6866cc33"/>
+    <graph id="n17_e3bc" name="n17" xy="801,56" size="206,113" type="eclipse" lineSize="10" fillColor="#ff336699"/>
+    <graph id="n18_e3bc" name="n18" xy="696,63" size="100,100" type="eclipse" lineSize="16" lineColor="#ff003300" fillColor="#0066cc33"/>
+    <graph id="n19_e3bc" name="pie" xy="490,62" size="100,100" type="eclipse" lineSize="2" lineColor="#ff000099" fillColor="#6800cccc"/>
+    <image id="n20_e3bc" name="n20" src="e3bc8a" fileName="images/radial.png" xy="978,333" pivot="0.5,0.5" anchor="true"/>
+    <graph id="n21_e3bc" name="radial" xy="979,333" pivot="0.5,0.5" anchor="true" size="244,244" type="regular_polygon" lineSize="2" lineColor="#ffff9900" fillColor="#6999ff33" sides="6" distances="0.57,0.82,0.7,0.78,0.61,0.47"/>
+    <graph id="n22_e3bc" name="trapezoid" xy="11,166" size="99,93" type="rect" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n23_c0ug" name="n23" xy="306,286" pivot="0.5,0.5" size="206,113" skew="60,30" rotation="-30" type="rect" lineSize="5" lineColor="#ffccff33" fillColor="#ff006600" corner="30"/>
+    <graph id="n24_c0ug" name="n24" xy="130,158" size="139,92" skew="0,30" type="rect" lineSize="15" lineColor="#ffff99ff" fillColor="#00ff6600"/>
+    <graph id="n25_c0ug" name="n25" xy="183,309" size="139,92" rotation="45" type="rect" lineSize="15" lineColor="#ffff99ff" fillColor="#00ff6600"/>
+    <graph id="n26_c0ug" name="n26" xy="10,268" size="100,100" type="rect" lineSize="20" lineColor="#ff0000ff" corner="20"/>
+    <graph id="n27_c0ug" name="n27" xy="12,388" size="100,100" type="rect" lineSize="0" lineColor="#ff0000ff" corner="20"/>
+    <graph id="n28_c0ug" name="polygon" xy="542,349" size="154,127" type="polygon" lineSize="2" lineColor="#ff660033" fillColor="#ff66cccc" points="0,52,95,52,95,-2.5,154,64,95,127,94.5,81.5,0,82"/>
+    <graph id="n29_c0ug" name="polygon2" xy="709,333" size="144,145" type="regular_polygon" lineSize="5" lineColor="#ffcc0066" fillColor="#ffff9933" sides="5" startAngle="-18"/>
+  </displayList>
+</component>
